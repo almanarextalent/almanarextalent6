@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE-edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
+    <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
+  <link rel="icon" href="logo13.jpg" class="border-radius: 100%;">
+    <title>Fitas Information</title>
+</head>
+<body>
+    <div class="container animate__animated animate__zoomIn">
+        <!-- Profile Picture -->
+        <div class="profile">
+            <img src="logo13.jpg" alt="Logo Fitas" class="animate__animated animate__tada" />
+        </div>
+
+        <div class="profile">
+            <h1 class="animate__animated animate__backInLeft">FITAS XIII-2025</h1>
+            <h1 class="animate__animated animate__backInRight">(Finding The Talented Students)</h1>
+            <h2 class="animate__animated animate__backInLeft">"Dare To Act, Ready To Shine"</h2>
+        </div>
+
+        <div class="info">
+            <a href="https://maps.app.goo.gl/XZQmb8buqt5Fe1Kq5" target="_blank" class="animate__animated animate__fadeIn">Ayo kunjungi sekolah kami sekarang juga!!! <br> Klik kotak ini untuk melihat lokasi sekolah kami!!</a><br>
+            <a href="#" target="_blank" class="animate__animated animate__flash">Mari berpartisipasi dalam acara FITAS-XIII 2025<br> </a>
+        </div>
+
+       <div class="profile">
+            <p class="animate__animated animate__backInRight">Petunjuk Teknis (Juknis)</p>
+        </div>
+
+        <div class="link">
+            <a href="https://drive.google.com/drive/folders/1GBKuEOdCnUt39d44bulENydymLF4jEZ3?usp=sharing" target="_blank" class="animate__animated animate__tada animate__delay-1s">Petunjuk Teknis (Juknis)</a>
+        </div>
+        
+        <div class="profile">
+            <p class="animate__animated animate__backInLeft">Formulir Pendaftaran</p>
+        </div>
+        
+        <div class="link">
+            <a href="https://forms.gle/sKV9PPLnFysxxDXM8" target="_blank" class="animate__animated animate__fadeIn animate__delay-1s">Design Poster</a>
+            <a href="https://forms.gle/uM5et3M37LWWoWDq8" target="_blank" class="animate__animated animate__fadeIn animate__delay-1s">Fotografi</a>
+            <a href="https://forms.gle/H1MvvGghfVVr3s2h7" target="_blank" class="animate__animated animate__fadeIn animate__delay-3s">Pidato bahasa indonesia</a>
+            <a href="https://forms.gle/iW5WDDHm7FFmr5kMA" target="_blank" class="animate__animated animate__fadeIn animate__delay-3s">Kaligrafi Naskhi</a>
+            <a href="https://forms.gle/ew3eehCiFzTyeoWVA" target="_blank" class="animate__animated animate__fadeIn animate__delay-3s">Cerdas Cermat</a>
+            <a href="https://forms.gle/VE5ZS4hTptPGGa1a9" target="_blank" class="animate__animated animate__fadeIn animate__delay-3s">Olimpiade MIPA</a>
+            <a href="https://forms.gle/VeAKNQNJTGnH6wkQ6" target="_blank" class="animate__animated animate__fadeIn animate__delay-3s">Tenis Meja</a>
+            <a href="https://forms.gle/QxFqPW2nMm2XUbTc9" target="_blank" class="animate__animated animate__fadeIn animate__delay-3s">MTQ/Tilawah</a>
+            <a href="https://forms.gle/j65wh9ikYPx4n4ej6" target="_blank" class="animate__animated animate__fadeIn animate__delay-1s">Sepak Bola</a>
+            <a href="https://forms.gle/HQUyr9Wdi4R5eMLP9" target="_blank" class="animate__animated animate__fadeIn animate__delay-2s">Hifdzul Qur'an</a>
+            <a href="https://forms.gle/PhVgvrsEk2aFpFWH9" target="_blank" class="animate__animated animate__fadeIn animate__delay-2s">Syarhil Qur'an</a>
+            <a href="https://forms.gle/GQSwQEDbLc3D4hyq6" target="_blank" class="animate__animated animate__fadeIn animate__delay-2s">Rapaie Geleng</a>
+            <a href="https://forms.gle/jZepeoNXQ6n29TqR7" target="_blank" class="animate__animated animate__fadeIn animate__delay-2s">Fahmil Qur'an</a>
+            <a href="https://forms.gle/uwnXWvtQumB86j9j8" target="_blank" class="animate__animated animate__fadeIn animate__delay-1s">Nasyid Acapella</a>
+            <a href="https://forms.gle/gSg64g4SHMqzqUD26" target="_blank" class="animate__animated animate__fadeIn animate__delay-1s">Pidato Bahasa Aceh</a>
+            <a href="https://forms.gle/9eDK1UH6reYScavg8" target="_blank" class="animate__animated animate__fadeIn animate__delay-1s">Olimpiade Bahasa Inggris</a>
+            <a href="https://forms.gle/8Hatni8W3iHWRwWg8" target="_blank" class="animate__animated animate__fadeIn animate__delay-2s">Mewarnai</a>
+            
+            
+        </div>
+
+       <div class="profile">
+            <p class="animate__animated animate__backInRight">FOLLOW US!!!</p>
+        </div>
+
+        <!-- Linktree Button -->
+        <div class="link">
+            <a href="https://www.instagram.com/fitasxiii/" target="_blank" class="animate__animated animate__fadeInRight animate__delay-1s">INSTAGRAM</a>
+            <a href="https://www.tiktok.com/@fitas._12" target="_blank" class="animate__animated animate__fadeInLeft animate__delay-2s">TIK TOK</a>
+            <a href="https://www.youtube.com/channel/UCCYhisuIxdpY2AkwOXGubKA" target="_blank" class="animate__animated animate__fadeInRight animate__delay-3s">YOUTUBE</a>
+        </div>
+        
+        <!-- Footer -->
+        <div class="footer animate__animated animate__bounceIn animate__delay-3s">
+            <p>Lamjampok, Ingin Jaya, Aceh Besar</p>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
